@@ -154,7 +154,7 @@ st.markdown(
     """
     <style>
         .stApp {
-            background-image: url('https://raw.githubusercontent.com/Iovanna777/cv-scoring-app/main/background_10_7.png');
+            background-image: url('https://raw.githubusercontent.com/Iovanna777/cv-scoring-app/main/image_with_transparency.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
